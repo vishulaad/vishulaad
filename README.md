@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishu Laad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishulaad&label=Profile%20views&color=0e75b6&style=flat" alt="vishulaad" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Frontend, DBMS, Programming and Computer Science**
+- 💬 Ask me about **Frontend, MySql, Java, Programming, and Computer Science**
 
 - 📫 How to reach me **vishulaad04@gmail.com**
 
